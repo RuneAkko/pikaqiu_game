@@ -1,0 +1,48 @@
+{
+    "Camera": [
+        {
+            "Center": [100, 56.25],
+            "Width": 200,
+            "Viewport": [0, 0, 1280, 720],
+            "BgColor": [0.9, 0.9, 0.9, 1.0]
+        }
+    ],
+
+    "Hero": {
+        "Position": [10, 10],
+        "Scale": [15, 15],
+        "MoveSpeed": 45,
+        "JumpSpeed": 75
+    },
+
+    "Flower": {
+        "Position": [100, 8],
+        "Scale": [8, 8]
+    },
+
+    "Platforms": [
+
+    ],
+
+    "Walls": [
+
+    ],
+
+    "Texts": [
+        {
+            "Content": "Start Game",
+            "Position": [27, 53],
+            "Color": [0.9, 0.9, 0.9, 1.0],
+            "Height": 8
+        }
+
+    ],
+
+    "Hamburgers": [
+    ],
+
+
+    "GameStatus": {
+        "DefaultStatus": 0
+    }
+}
